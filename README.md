@@ -8,7 +8,7 @@ This guide outlines the steps needed to set up a Kubernetes cluster using kubead
 * AWS Account
 * Passion to Learn
 
-### Master & Worker Node: \
+### Master & Worker Node: 
 Run the following commands on both the master and worker nodes to prepare them for kubeadm.
 
 ```bash
@@ -119,7 +119,9 @@ Verify if it is working as expected!
 kubectl get nodes
 ```
 
+Link to the video tutorial: 
 
-
-
-
+Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos \
+Follow my personal blog here: https://dev.to/yeshwanthlm/ \
+Follow us on Instagram: https://www.instagram.com/amonkincloud/ \
+For queries write to us at: amonkincloud@gmail.com 
